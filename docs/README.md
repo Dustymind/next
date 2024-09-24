@@ -3,7 +3,7 @@ lang: zh-CN
 title: Next
 home: true
 heroText: Next
-tagline: A reset
+tagline: An archive of the past
 description: The hidden palace.
 actions:
   - text: 过去
